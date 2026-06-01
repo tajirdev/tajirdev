@@ -1,17 +1,11 @@
-# 👋 Hi, I'm Alfred (tajirdev)
+# 👋 Hi, I'm Alfred 
 
   **Full-Stack Developer | Python Enthusiast**
-     Building scalable and practical web applications
+   
 
 ---
 
-##  About Me
 
-* solving real-world problems using code
-* Currently focusing on **Full-Stack Development**
-* Goal: solving social problem through tech
-
----
 
 
 ## ⚙️ Tech Stack
@@ -22,7 +16,6 @@
 
 ## 📌 Featured Projects
 
-* 🔹 A POSSIBLE PLANTFORM (In Progress)
 * 🔹 Migrant4Migrant (In Progress)
 
 
@@ -37,9 +30,4 @@
 
 ---
 
-## 💭 Quote
-
-> "Just focus with your goals."
-
----
 
