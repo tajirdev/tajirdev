@@ -3,7 +3,6 @@
   **Full-Stack Developer | Python Enthusiast**
    
 
----
 
 
 
@@ -12,7 +11,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,js,html,css,tailwind,MySQL,PostgreSQL,Docker)
 
----
+
 
 ## 📌 Featured Projects
 
@@ -21,7 +20,7 @@
 
 
 
----
+
 
 ## Connect With Me
 
