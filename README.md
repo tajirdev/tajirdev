@@ -15,7 +15,7 @@
 
 ## 📌 Featured Projects
 
-* 🔹 Migrant4Migrant (In Progress)
+* 🔹 Migrant4Migrant
 
 
 
