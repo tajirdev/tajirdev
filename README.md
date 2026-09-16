@@ -28,6 +28,11 @@
 * 📱 Phone: 0674460305
 
 ---
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/tajirdev)](https://ghfind.com/u/tajirdev?ref=badge)
+<a href="https://ghfind.com/u/tajirdev?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tajirdev?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/tajirdev?theme=light" alt="GitHub Roast score card" width="440" />
+  </picture>
+</a>
 
 
