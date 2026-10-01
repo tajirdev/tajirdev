@@ -13,10 +13,6 @@
 
 
 
-## 📌 Featured Projects
-
-* 🔹 Migrant4Migrant
-
 
 
 
